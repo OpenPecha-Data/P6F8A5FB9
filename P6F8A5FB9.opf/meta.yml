@@ -1,0 +1,13 @@
+id: P6F8A5FB9
+initial_creation_type: input
+source_metadata:
+  title: Khaḍgaviṣāṇasūtra
+  language: pgd
+  volumes:
+    8b5dcbbf0af9488b87d5812b59406bf1:
+      title: Complete text
+      base_file: Complete text.txt
+      work_id: WECE14B9D
+  chapter_to_tile: {}
+created_at: '2022-03-02T08:56:05.529069'
+last_modified_at: '2022-03-02T08:56:05.529079'
